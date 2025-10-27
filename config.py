@@ -1,0 +1,11 @@
+NVIDIA_API_KEY = "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"
+# "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"
+#"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"
+
+PINECONE_API_KEY = "pcsk_4wQna_BCRcyJ4mtAJAiHZSLPBxzF78MgKmZeXy48E7ctq2sjMffDMRw1DAQpJmHod7jgb"
+PINECONE_ENV = "us-east-1"
+PINECONE_INDEX_NAME = "study-buddy-768"
+
+NEO4J_URI = "bolt://localhost:7687"
+NEO4J_USER = "neo4j"
+NEO4J_PASSWORD = "password"

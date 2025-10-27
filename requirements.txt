@@ -1,0 +1,26 @@
+requests
+ipykernel
+python-dotenv
+openai
+# pydantic
+# docling
+# lancedb
+streamlit
+# tiktoken
+pinecone
+pinecone-client
+
+langchain-community
+# docling-core 
+langchain-text-splitters
+langgraph
+tqdm
+pypdf
+
+neo4j
+pyvis
+
+weaviate
+weaviate-client
+langchain_nvidia_ai_endpoints
+langchain-ollama
